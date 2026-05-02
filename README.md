@@ -11,30 +11,30 @@ The system supports task creation, categorization, priority leveling, status upd
 ## Features
 
 ### Task & Category Management
-- Create and update tasks with details such as title, description, due date, and priority[cite: 1]
-- Manage and assign tasks to specific categories[cite: 1]
-- Persist task and category data using JSON files[cite: 1]
+- Create and update tasks with details such as title, description, due date, and priority
+- Manage and assign tasks to specific categories
+- Persist task and category data using JSON files
 
 ### Workflow & Tracking
-- Update task status (To Do, In Progress, Done) to monitor progress[cite: 1]
-- Filter and focus on tasks based on priority levels (High, Medium, Low)[cite: 1]
-- Automatic due-date tracking for better deadline management[cite: 1]
+- Update task status (To Do, In Progress, Done) to monitor progress
+- Filter and focus on tasks based on priority levels (High, Medium, Low)
+- Automatic due-date tracking for better deadline management
 
 ### Activity Logging & UI
-- Log application activities for history and auditing[cite: 1]
-- Structured terminal views for clear data presentation[cite: 1]
-- Real-time activity updates within the system[cite: 1]
+- Log application activities for history and auditing
+- Structured terminal views for clear data presentation
+- Real-time activity updates within the system
 
 ### Persistence & Backup
-- Save system state using JSON files[cite: 1]
-- Create backups to ensure data safety[cite: 1]
-- Validate task and category data integrity[cite: 1]
+- Save system state using JSON files
+- Create backups to ensure data safety
+- Validate task and category data integrity
 
 ### Testing
 - Automated tests for:
-  - Task logic and state transitions[cite: 1]
-  - Storage reliability and JSON handling[cite: 1]
-  - Data integrity and persistence[cite: 1]
+  - Task logic and state transitions
+  - Storage reliability and JSON handling
+  - Data integrity and persistence
 
 ---
 
